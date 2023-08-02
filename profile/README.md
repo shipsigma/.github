@@ -1,6 +1,6 @@
 ## Ahoy, we're ShipSigma 👋
 
-![ShipSigma Banner](./shipsigma.png)
+![ShipSigma Banner](https://github.com/shipsigma/.github/assets/11765848/61b180d2-c606-440e-8b10-813c4152cef4)
 
 We're on a mission to revolutionize the shipping industry with our cutting-edge negotiation software. We simplify contract analysis, negotiation, and compliance, and we're powered by over $1 Billion in live market data. 
 
